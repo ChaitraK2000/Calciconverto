@@ -1,0 +1,38 @@
+.tab1{
+-fx-background-color:pink;
+}
+.tab2{
+-fx-background-color:aqua;
+
+}
+.tab3{
+    -fx-background-color:"#81D4FA";
+}
+.tab4{
+    -fx-background-color:white;
+}
+.tab5{
+    -fx-background-color:silver;
+}
+.tab6{
+     -fx-background-color:white;
+ }
+ .tab0{
+ -fx-background-color:"#F06292";
+ }
+ .lable{
+ -fx-background-color:silver;
+ -fx-border-style-type=solid;
+ -fx-border-style-width=20px;
+ -fx-border-color:black;
+ }
+ .plus{
+ -fx-background-color:"#81D4FA";
+ }
+ .button
+ {
+ -fx-color:white;
+ }
+ .clear{
+ -fx-color:red;
+ }
